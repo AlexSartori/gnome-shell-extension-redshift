@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="my-redshift-sun-40-symbolic.svg"
-   height="16"
+   sodipodi:docname="my-redshift-moon-symbolic.svg"
+   height="17.066668"
    id="svg7384"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.0 r"
    version="1.1"
-   width="16">
+   width="17.066668"
+   viewBox="0 0 16 16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -33,8 +34,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="9.4170323"
-     inkscape:cy="8.0474963"
+     inkscape:cx="7.6410577"
+     inkscape:cy="8.5557262"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -60,16 +61,16 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:zoom="90.509668">
+     inkscape:zoom="45.254834">
     <inkscape:grid
        empspacing="2"
        enabled="true"
        id="grid4866"
-       originx="160.0002px"
-       originy="100px"
+       originx="160.00019"
+       originy="99.999995"
        snapvisiblegridlinesonly="true"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="0.99999995"
+       spacingy="0.99999995"
        type="xygrid"
        visible="true" />
     <inkscape:grid
@@ -80,11 +81,11 @@
        enabled="true"
        id="grid5968"
        opacity="0.1254902"
-       originx="160.0002px"
-       originy="100px"
+       originx="160.00019"
+       originy="99.999995"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.49999997"
+       spacingy="0.49999997"
        type="xygrid"
        visible="true" />
   </sodipodi:namedview>
@@ -99,10 +100,10 @@
      style="display:inline"
      transform="translate(-81,-317)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.13605189;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 8 4 C 5.802703 4 4 5.80271 4 8 C 4 10.1973 5.802703 12 8 12 C 10.197297 12 12 10.1973 12 8 C 12 5.80271 10.197297 4 8 4 z M 9.25 5.28125 C 9.8022848 5.28125 10.25 5.7289653 10.25 6.28125 C 10.25 6.8335347 9.8022848 7.28125 9.25 7.28125 C 8.6977152 7.28125 8.25 6.8335347 8.25 6.28125 C 8.25 5.7289653 8.6977152 5.28125 9.25 5.28125 z M 6.65625 6.96875 C 6.9323924 6.96875 7.15625 7.1926076 7.15625 7.46875 C 7.15625 7.7448924 6.9323924 7.96875 6.65625 7.96875 C 6.3801076 7.96875 6.15625 7.7448924 6.15625 7.46875 C 6.15625 7.1926076 6.3801076 6.96875 6.65625 6.96875 z M 7.0625 9.125 C 7.3386424 9.125 7.5625 9.3488576 7.5625 9.625 C 7.5625 9.9011424 7.3386424 10.125 7.0625 10.125 C 6.7863576 10.125 6.5625 9.9011424 6.5625 9.625 C 6.5625 9.3488576 6.7863576 9.125 7.0625 9.125 z "
-       transform="translate(81,317)"
-       id="path32729" />
+       style="opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.28214836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 7.7363281 4.3496094 A 4.2647379 4.2647379 0 0 0 4.265625 8.5371094 A 4.2647379 4.2647379 0 0 0 8.5292969 12.802734 A 4.2647379 4.2647379 0 0 0 12.132812 10.806641 A 3.9774757 3.9774757 0 0 1 10.541016 11.144531 A 3.9774757 3.9774757 0 0 1 6.5625 7.1679688 A 3.9774757 3.9774757 0 0 1 7.7363281 4.3496094 z "
+       transform="matrix(0.93749995,0,0,0.93749995,81,317)"
+       id="path4497" />
   </g>
   <g
      inkscape:groupmode="layer"
